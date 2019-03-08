@@ -102,7 +102,7 @@ In no particular order!
 - javascript
 - js
 - spec
-- specificiation
+- specification
 - standard
 - standards
 - svg
