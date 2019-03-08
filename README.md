@@ -1,4 +1,4 @@
-<img align="center" src="https://pbs.twimg.com/profile_images/1103518147750051840/9Aazom2j_400x400.png" width="100" />
+<p align="center"><img src="https://pbs.twimg.com/profile_images/1103518147750051840/9Aazom2j_400x400.png" width="100" /></p>
 
 <h1 align="center">The Web Newfeed</h1>
 
