@@ -1,0 +1,173 @@
+/* CSS IS BOMB */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #1b1b1b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.home {
+  display: flex;
+  height: calc(100vh - 75px);
+  min-height: 600px;
+  max-height: 800px;
+}
+
+@media (max-height: 600px) {
+  .home {
+    min-height: 500px;
+    height: 100vh;
+  }
+}
+
+.intro {
+  background: #141d26;
+  color: #fdfdfd;
+  width: 38.18466354%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-container {
+  max-width: 40rem;
+  text-align: center;
+}
+
+.logo {
+  animation: rotating 10s linear infinite;
+}
+
+@keyframes rotating {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+div {
+  line-height: 1.26em;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 32px;
+  margin: 32px auto 16px;
+}
+
+.caption {
+  font-size: 16px;
+  padding: 0 1rem;
+  padding: 16px;
+}
+
+.caption:after {
+  content: "";
+  display: block;
+  width: 125px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.1);
+  margin: 36px auto 0;
+}
+
+.link {
+  font-weight: 400;
+  font-size: 14px;
+  color: #f0f3f5;
+  margin: 16px;
+}
+
+.feed {
+  background: #243447;
+  position: relative;
+  flex-grow: 1;
+  overflow: scroll;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  position: relative;
+  background: linear-gradient(135deg, #fc00ff, #00dbde);
+  height: 80%;
+  min-width: 450px;
+  padding: 70px;
+  border-radius: 5px;
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+  transform: perspective(1000px);
+  cursor: grabbing;
+}
+
+.twitter-timeline {
+  transform: translateZ(50px);
+}
+
+.twitter-buttons {
+  position: relative;
+  margin-top: 24px;
+}
+
+.twitter-follow-button {
+  margin-right: 4px;
+}
+
+@media only screen and (max-width: 776.25px) {
+  .home {
+    display: block;
+    height: auto;
+    min-height: inherit;
+    max-height: inherit;
+  }
+
+  .intro {
+    width: auto;
+    padding: 6.5rem 0 4.5rem;
+  }
+
+  .box {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 700px;
+    min-width: 0;
+    width: 80%;
+    padding: 50px 35px;
+  }
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 30px 50px;
+}
+
+#line-svg {
+  margin: 25px;
+}
+
+#line-2 {
+  visibility: hidden;
+}
