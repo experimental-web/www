@@ -1,8 +1,10 @@
-<h1 align="center">The Web Newfeed</h1>
+<h1 align="center">The Web Newsfeed 🕸🗞</h1>
 
 The web is constantly changing. As developers, designers, and as users, we have a responsibility to keep up with all the new things. But it's hard to follow the right organizations, newsletters, and people. This repository is an attempt to simplify the struggle of keeping up with the web.
 
 This repository features a Twitter feed of influential web developers, web browsers, and web organizations to help you keep up to date about everything happening on the world wide web.
+
+I am running this website on [Now](https://zeit.co/now) and the Twitter bot is running [Huginn](https://github.com/huginn/huginn) on a Heroku dyno with a keyword filter on [individuals](#keyword-filters-on-individuals).
 
 ## Viewing
 
@@ -91,6 +93,48 @@ In no particular order!
 - [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
 - [Robin Rendle](https://twitter.com/robinrendle)
 
+## Keyword Filters on Individuals
+- web
+- browser
+- browsers
+- html
+- css
+- javascript
+- js
+- spec
+- specificiation
+- standard
+- standards
+- svg
+- ui
+- animation
+- performance
+- perf
+- lighthouse
+- url
+- render
+- internet
+- w3c
+- csswg
+- develop
+- open
+- dev
+- package
+- tool
+- app
+- programmer
+- tip
+- new
+- code
+- design
+- docs
+- safari
+- firefox
+- technique
+- feature
+- feature
+- deprecated
+
 ## Contributing
 
-I'm sure I missed a lot of worthy Webfluencers. Help the Twitter feed by submitting a [PR](https://github.com/thomaswangio/w3/pulls) with additions to the README. Revisions and removals also welcome, with explanation.
+I'm sure I missed a lot of worthy Webfluencers and keywords. Help the Twitter feed by submitting a [PR](https://github.com/thomaswangio/w3/pulls) with additions to the README. Revisions and removals also welcome, with explanation.
