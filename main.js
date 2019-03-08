@@ -15,15 +15,15 @@ window.onload = function() {
 
 if (window.matchMedia("(max-width: 650px)").matches) {
   /* The viewport is at most 650 pixels wide */
-  console.log("hello?");
+  console.log("big screen!");
   const twitterWidth = document
     .getElementById("twitter-timeline")
-    .createAttribute("data-width");
+    .setAttribute("data-width");
   twitterWidth.value = "220";
 } else {
-  console.log("nope");
+  console.log("little screen!");
   const twitterWidth = document
     .getElementById("twitter-timeline")
-    .createAttribute("data-width");
+    .setAttribute("data-width");
   twitterWidth.value = "100%";
 }
