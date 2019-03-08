@@ -129,6 +129,7 @@ h1 {
 .twitter-buttons {
   position: relative;
   margin-top: 24px;
+  margin-bottom: 24px;
 }
 
 .twitter-follow-button {
