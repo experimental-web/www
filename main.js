@@ -12,3 +12,18 @@ window.onload = function() {
   };
   to2();
 };
+
+if (window.matchMedia("(max-width: 650px)").matches) {
+  /* The viewport is at most 650 pixels wide */
+  console.log("hello?");
+  const twitterWidth = document
+    .getElementById("twitter-timeline")
+    .createAttribute("data-width");
+  twitterWidth.value = "220";
+} else {
+  console.log("nope");
+  const twitterWidth = document
+    .getElementById("twitter-timeline")
+    .createAttribute("data-width");
+  twitterWidth.value = "100%";
+}
