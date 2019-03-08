@@ -122,6 +122,13 @@ h1 {
   cursor: grabbing;
 }
 
+@media only screen and (max-width: 650px) {
+  #twitter-widget-2 {
+    width: 250px !important;
+    margin: auto !important;
+  }
+}
+
 .twitter-timeline {
   transform: translateZ(50px);
 }
@@ -156,6 +163,7 @@ h1 {
     min-width: 0;
     width: 80%;
     padding: 50px 35px;
+    display: flex;
   }
 }
 
