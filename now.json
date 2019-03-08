@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "www",
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@now/html-minifier"
+    }
+  ]
+}
