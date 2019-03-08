@@ -12,3 +12,10 @@ window.onload = function() {
   };
   to2();
 };
+
+if (window.matchMedia("(max-width: 650px)").matches) {
+  /* The viewport is at most 650 pixels wide */
+  document
+    .getElementById("twitter-timeline")
+    .removeAttribute("data-tilt-glare");
+}
