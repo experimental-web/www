@@ -125,6 +125,7 @@ h1 {
 @media only screen and (max-width: 650px) {
   #twitter-widget-2 {
     width: 250px !important;
+    height: 580px !important;
     margin: auto !important;
   }
 }
