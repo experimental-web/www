@@ -1,6 +1,6 @@
-<img src="https://pbs.twimg.com/profile_images/1103518147750051840/9Aazom2j_400x400.png" width="100" />
+<img style="text-align: center" src="https://pbs.twimg.com/profile_images/1103518147750051840/9Aazom2j_400x400.png" width="100" />
 
-# The Web Newfeed
+<h1 style="text-align: center">The Web Newfeed<h1>
 
 The web is constantly changing. As developers, designers, and as users, we have a responsibility to keep up with all the new things. But it's hard to follow the right organizations, newsletters, and people. This repository is an attempt to simplify the struggle of keeping up with the web.
 
