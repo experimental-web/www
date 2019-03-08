@@ -21,20 +21,20 @@ In no particular order!
 - [W3C Developers](https://twitter.com/w3cdevs)
 - [The Web Foundation](https://twitter.com/webfoundation)
 - [React](https://twitter.com/reactjs)
+- [Vue JS](https://twitter.com/vuejs)
 
 ### Browsers
 
 - [Google Chrome](https://twitter.com/googlechrome)
 - [Firefox](https://twitter.com/firefox)
 - [Microsoft Edge](https://twitter.com/MicrosoftEdge)
-  = [Opera](https://twitter.com/opera)
+- [Opera](https://twitter.com/opera)
 - [Brave](https://twitter.com/brave)
 - [Chromium](https://twitter.com/ChromiumDev)
 - [Chrome DevTools](https://twitter.com/ChromeDevTools)
 - [Firefox Devtools](https://twitter.com/FirefoxDevTools)
 - [Firefox Nightly](https://twitter.com/FirefoxNightly)
 - [Microsoft Edge Dev](https://twitter.com/MSEdgeDev)
-- [Vue JS](https://twitter.com/vuejs)
 
 ### Resource/Docs
 
