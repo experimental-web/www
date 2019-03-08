@@ -16,6 +16,6 @@ window.onload = function() {
 if (window.matchMedia("(max-width: 650px)").matches) {
   /* The viewport is at most 650 pixels wide */
   document
-    .getElementById("twitter-timeline")
+    .getElementById("box")
     .removeAttribute("data-tilt-glare");
 }
