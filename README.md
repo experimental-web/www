@@ -1,4 +1,6 @@
-<h1 align="center">The Web Newsfeed 🕸🗞</h1>
+<img align="center" src="./webfluencer_logo.jpg" width="100" />
+
+<h1 align="center">The Web Newsfeed</h1>
 
 The web is constantly changing. As developers, designers, and as users, we have a responsibility to keep up with all the new things. But it's hard to follow the right organizations, newsletters, and people. This repository is an attempt to simplify the struggle of keeping up with the web.
 
@@ -94,9 +96,11 @@ In no particular order!
 - [Robin Rendle](https://twitter.com/robinrendle)
 
 ## Filters on People
+
 Any tweet with `"retweet_count" >= 10` will be tweeted.
 
 ### Words (regex)
+
 - web
 - browser
 - html
@@ -133,6 +137,7 @@ Any tweet with `"retweet_count" >= 10` will be tweeted.
 - vue
 
 ### Words (match full word)
+
 - js
 - spec
 - ui
