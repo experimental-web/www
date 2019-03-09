@@ -1,6 +1,8 @@
-<img style="text-align:center" src="./webfluencer_logo.jpg" width="100" />
+<p align="center">
+  <img src="./webfluencer_logo.jpg" width="100" />
+</p>
 
-<h1 align="center" style="text-align:center">The Web Newsfeed</h1>
+<h1 align="center">The Web Newsfeed</h1>
 
 The web is constantly changing. As developers, designers, and as users, we have a responsibility to keep up with all the new things. But it's hard to follow the right organizations, newsletters, and people. This repository is an attempt to simplify the struggle of keeping up with the web.
 
