@@ -99,7 +99,7 @@ In no particular order!
 
 ## Filters on People
 
-Any tweet with `"retweet_count" >= 10` will be tweeted.
+Any tweet with `"retweet_count" >= 50` will be tweeted.
 
 ### Words (regex)
 
