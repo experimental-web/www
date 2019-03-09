@@ -4,7 +4,7 @@ The web is constantly changing. As developers, designers, and as users, we have 
 
 This repository features a Twitter feed of influential web developers, web browsers, and web organizations to help you keep up to date about everything happening on the world wide web.
 
-I am running this website on [Now](https://zeit.co/now) and the Twitter bot is running [Huginn](https://github.com/huginn/huginn) on a Heroku dyno with a keyword filter on [individuals](#keyword-filters-on-individuals).
+I am running this website on [Now](https://zeit.co/now) and the Twitter bot is running [Huginn](https://github.com/huginn/huginn) on a Heroku dyno with a [filter on individuals' tweets](#keyword-filters-on-individuals).
 
 ## Viewing
 
@@ -93,25 +93,21 @@ In no particular order!
 - [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
 - [Robin Rendle](https://twitter.com/robinrendle)
 
-## Keyword Filters on Individuals
+## Filters on People
+Any tweet with `"retweet_count" >= 10` will be tweeted.
+
+### Words (regex)
 - web
 - browser
-- browsers
 - html
 - css
 - javascript
-- js
-- spec
 - specification
 - standard
-- standards
 - svg
-- ui
 - animation
 - performance
-- perf
 - lighthouse
-- url
 - render
 - internet
 - w3c
@@ -122,18 +118,27 @@ In no particular order!
 - package
 - tool
 - app
-- programmer
+- program
 - tip
-- new
 - code
 - design
-- docs
+- doc
 - safari
+- chrome
 - firefox
 - technique
 - feature
-- feature
-- deprecated
+- deprecate
+- react
+- vue
+
+### Words (match full word)
+- js
+- spec
+- ui
+- perf
+- url
+- new
 
 ## Contributing
 
