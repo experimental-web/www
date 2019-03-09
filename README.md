@@ -117,7 +117,6 @@ Any tweet with `"retweet_count" >= 10` will be tweeted.
 - render
 - internet
 - w3c
-- csswg
 - develop
 - open
 - dev
