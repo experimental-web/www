@@ -136,6 +136,7 @@ Any tweet with `"retweet_count" >= 50` will be tweeted.
 - deprecate
 - react
 - vue
+- modern
 
 ### Words (match full word)
 
