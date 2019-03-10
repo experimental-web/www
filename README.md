@@ -52,15 +52,15 @@ In no particular order!
 - [Chris Lilley](https://twitter.com/svgeesus)
 - [Jen Simmons](https://twitter.com/jensimmons)
 - [Rachel Andrew](https://twitter.com/rachelandrew)
-- [Sara Soueidan](https://twitter.com/SaraSoueidan)
+- [Sara Soueidan](https://twitter.com/SaraSoueidan)*
 - [Sarah Drasner](https://twitter.com/sarah_edo)
-- [Chris Coyier](https://twitter.com/chriscoyier)
-- [Lee Verou](https://twitter.com/LeaVerou)
+- [Chris Coyier](https://twitter.com/chriscoyier)*
+- [Lee Verou](https://twitter.com/LeaVerou)*
 - [Eric Meyer](https://twitter.com/meyerweb)
-- [Paul Irish](https://twitter.com/paul_irish)
+- [Paul Irish](https://twitter.com/paul_irish)*
 - [fantasai](https://twitter.com/fantasai)
 - [Nicole Sullivan](https://twitter.com/stubbornella)
-- [Estelle Weyl](https://twitter.com/estellevw) - [Standardista](https://twitter.com/standardista)
+- [Estelle Weyl](https://twitter.com/estellevw) - [Standardista](https://twitter.com/standardista)*
 - [Rossen Atanassov](https://twitter.com/cssrossen)
 - [Benjamin De Cock](https://twitter.com/bdc)
 - [Addy Osmani](https://twitter.com/addyosmani)
@@ -97,9 +97,9 @@ In no particular order!
 - [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
 - [Robin Rendle](https://twitter.com/robinrendle)
 
-## Filters on People
+*Any tweet with `"retweet_count" >= 50` will be tweeted for these people
 
-Any tweet with `"retweet_count" >= 50` will be tweeted.
+## Filters on People
 
 ### Words (regex)
 
