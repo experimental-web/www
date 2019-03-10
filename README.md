@@ -111,7 +111,7 @@ In no particular order!
 - css
 - javascript
 - specification
-- standard
+- web standard
 - svg
 - animation
 - performance
