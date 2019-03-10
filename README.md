@@ -97,9 +97,11 @@ In no particular order!
 - [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
 - [Robin Rendle](https://twitter.com/robinrendle)
 
-*Any tweet with `"retweet_count" >= 50` will be tweeted for these people
+*Any tweet with `"retweet_count" >= 50` will be tweeted for these people. All others will be retweeted when their tweets (and tweet replies to themselves) and retweets match the [keyword filter](#keyword-filters-on-individuals).
 
-## Filters on People
+**Note: Original tweets from organizations, browsers, and resources/docs will be retweeted right away**
+
+## Keyword Filters on Individuals
 
 ### Words (regex)
 
