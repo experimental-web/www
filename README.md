@@ -123,8 +123,6 @@ In no particular order!
 - package
 - application
 - program
-- code
-- design
 - safari
 - chrome
 - firefox
@@ -155,6 +153,8 @@ In no particular order!
 - vue
 - vuejs
 - vue.js
+- code
+- design
 
 ## Contributing
 
