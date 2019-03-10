@@ -119,8 +119,6 @@ In no particular order!
 - render
 - internet
 - w3c
-- develop
-- open
 - dev
 - package
 - tool
@@ -136,9 +134,9 @@ In no particular order!
 - technique
 - feature
 - deprecate
-- react
-- vue
 - modern
+- open-source
+- open source
 
 ### Words (match full word)
 
@@ -148,6 +146,12 @@ In no particular order!
 - perf
 - url
 - new
+- react
+- reactjs
+- react.js
+- vue
+- vuejs
+- vue.js
 
 ## Contributing
 
