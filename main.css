@@ -181,3 +181,9 @@ h1 {
 #line-2 {
   visibility: hidden;
 }
+
+.iOSCard {
+  width: 250px !important;
+  height: 580px !important;
+  margin: auto !important;
+}
