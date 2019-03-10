@@ -4,7 +4,12 @@ window.onload = function() {
   const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
   if (iOS) {
-    document.getElementById("twitter-widget-2").classList.add("iOSCard");
+    document.getElementById("box").removeAttribute("data-tilt");
+    document.getElementById("box").removeAttribute("data-tilt-reverse");
+    document.getElementById("box").removeAttribute("data-tilt-glare");
+    document.getElementById("box").removeAttribute("data-tilt-max-glare");
+    document.getElementById("box").removeAttribute("data-tilt-max");
+    document.getElementById("box").removeAttribute("data-tilt-scale");
   }
 
   const line1 = Snap.select("#line-1");
