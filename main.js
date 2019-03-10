@@ -1,5 +1,12 @@
 window.onload = function() {
   console.log("I love the web!");
+
+  const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+
+  if (iOS) {
+    document.getElementById("twitter-widget-2").classList.add("iOSCard");
+  }
+
   const line1 = Snap.select("#line-1");
   const line2 = Snap.select("#line-2");
   const line1Points = line1.node.getAttribute("d");
@@ -12,12 +19,6 @@ window.onload = function() {
   };
   to2();
 };
-
-const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-
-if (iOS) {
-  document.getElementById("twitter-widget-2").classList.add("iOSCard");
-}
 
 if (window.matchMedia("(max-width: 650px)").matches) {
   /* The viewport is at most 650 pixels wide */
