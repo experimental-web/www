@@ -4,6 +4,8 @@ window.onload = function() {
   const iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
   if (iOS) {
+    document.getElementById("box").classList.add("iOSBox");
+    document.getElementById("twitter-widget-2").classList.add("iOSCard");
     document.getElementById("box").removeAttribute("data-tilt");
     document.getElementById("box").removeAttribute("data-tilt-reverse");
     document.getElementById("box").removeAttribute("data-tilt-glare");

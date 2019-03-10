@@ -130,6 +130,22 @@ h1 {
   }
 }
 
+.iOSBox {
+  transition: none;
+  transform-style: none;
+  transform: none;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.iOSCard {
+  position: relative;
+  transform: none !important;
+  height: 400px !important;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
 .twitter-timeline {
   transform: translateZ(50px);
 }
