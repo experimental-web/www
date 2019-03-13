@@ -154,7 +154,15 @@ In no particular order!
 - vuejs
 - vue.js
 - code
+- codes
+- coder
+- coders
+- coding
 - design
+- designer
+- designs
+- designers
+- designing
 
 ## Contributing
 
