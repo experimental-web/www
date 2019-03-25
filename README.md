@@ -96,6 +96,9 @@ In no particular order!
 - [Nicolas](https://twitter.com/necolas)
 - [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
 - [Robin Rendle](https://twitter.com/robinrendle)
+- [Allen Wirfs-Brock](https://twitter.com/awbjs)
+- [Daniel Ehrenberg](https://twitter.com/littledan)
+- [bterlson.d.ts](https://twitter.com/bterlson)
 
 *Any tweet with `"retweet_count" >= 50` will be tweeted for these people. All others will be retweeted when their tweets (and tweet replies to themselves) and retweets match the [keyword filter](#keyword-filters-on-individuals).
 
