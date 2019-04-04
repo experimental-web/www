@@ -29,6 +29,8 @@ In no particular order!
 
 ### Browsers
 
+**Not Currently Working – Huginn Heroku passing database limits**
+
 - [Google Chrome](https://twitter.com/googlechrome)
 - [Firefox](https://twitter.com/firefox)
 - [Microsoft Edge](https://twitter.com/MicrosoftEdge)
