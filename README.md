@@ -29,8 +29,6 @@ In no particular order!
 
 ### Browsers
 
-**Not Currently Working – Huginn Heroku passing database limits**
-
 - [Google Chrome](https://twitter.com/googlechrome)
 - [Firefox](https://twitter.com/firefox)
 - [Microsoft Edge](https://twitter.com/MicrosoftEdge)
@@ -48,6 +46,8 @@ In no particular order!
 - [MDN Web Docs](https://twitter.com/MozDevNet)
 
 ### People
+
+**Not Currently Working – Huginn Heroku passing database limits**
 
 - [Tim Berners-Lee](https://twitter.com/timberners_lee)
 - [Brendan Eich](https://twitter.com/BrendanEich)
