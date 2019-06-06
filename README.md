@@ -39,6 +39,7 @@ In no particular order!
 - [Firefox Devtools](https://twitter.com/FirefoxDevTools)
 - [Firefox Nightly](https://twitter.com/FirefoxNightly)
 - [Microsoft Edge Dev](https://twitter.com/MSEdgeDev)
+- [Webkit](https://twitter.com/webkit)
 
 ### Resource/Docs
 
