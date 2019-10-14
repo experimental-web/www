@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="./webfluencer_logo.jpg" width="100" />
+  <img src="./logo-2.png" width="100" />
 </p>
 
-<h1 align="center">The Web Newsfeed</h1>
+<h1 align="center">Experimental Web</h1>
 
 The web is constantly changing. As developers, designers, and as users, we have a responsibility to keep up with all the new things. But it's hard to follow the right organizations, newsletters, and people. This repository is an attempt to simplify the struggle of keeping up with the web.
 
-This repository features a Twitter feed of influential web developers, web browsers, and web organizations to help you keep up to date about everything happening on the world wide web.
+This repository features a Twitter feed of web browsers, organizations, and developers to help you keep up to date about everything happening on the world wide web.
 
 I am running this website on [Now](https://zeit.co/now) and the Twitter bot is running [Huginn](https://github.com/huginn/huginn) on a Heroku dyno with a [filter on individuals' tweets](#keyword-filters-on-individuals).
 
 ## Viewing
 
-Can be viewed on **[Twitter](https://twitter.com/Webfluencers)** or at the **[website](https://w3.now.sh)**.
+Can be viewed on **[Twitter](https://twitter.com/experimentalweb)** or at the **[website](https://experimentalweb.net)**.
 
 ## The List
 
@@ -55,15 +55,15 @@ In no particular order!
 - [Chris Lilley](https://twitter.com/svgeesus)
 - [Jen Simmons](https://twitter.com/jensimmons)
 - [Rachel Andrew](https://twitter.com/rachelandrew)
-- [Sara Soueidan](https://twitter.com/SaraSoueidan)*
+- [Sara Soueidan](https://twitter.com/SaraSoueidan)\*
 - [Sarah Drasner](https://twitter.com/sarah_edo)
-- [Chris Coyier](https://twitter.com/chriscoyier)*
-- [Lee Verou](https://twitter.com/LeaVerou)*
+- [Chris Coyier](https://twitter.com/chriscoyier)\*
+- [Lee Verou](https://twitter.com/LeaVerou)\*
 - [Eric Meyer](https://twitter.com/meyerweb)
-- [Paul Irish](https://twitter.com/paul_irish)*
+- [Paul Irish](https://twitter.com/paul_irish)\*
 - [fantasai](https://twitter.com/fantasai)
 - [Nicole Sullivan](https://twitter.com/stubbornella)
-- [Estelle Weyl](https://twitter.com/estellevw) - [Standardista](https://twitter.com/standardista)*
+- [Estelle Weyl](https://twitter.com/estellevw) - [Standardista](https://twitter.com/standardista)\*
 - [Rossen Atanassov](https://twitter.com/cssrossen)
 - [Benjamin De Cock](https://twitter.com/bdc)
 - [Addy Osmani](https://twitter.com/addyosmani)
@@ -103,7 +103,7 @@ In no particular order!
 - [Daniel Ehrenberg](https://twitter.com/littledan)
 - [bterlson.d.ts](https://twitter.com/bterlson)
 
-*Any tweet with `"retweet_count" >= 50` will be tweeted for these people. All others will be retweeted when their tweets (and tweet replies to themselves) and retweets match the [keyword filter](#keyword-filters-on-individuals).
+\*Any tweet with `"retweet_count" >= 50` will be tweeted for these people. All others will be retweeted when their tweets (and tweet replies to themselves) and retweets match the [keyword filter](#keyword-filters-on-individuals).
 
 **Note: Original tweets from organizations, browsers, and resources/docs will be retweeted right away**
 
@@ -172,4 +172,4 @@ In no particular order!
 
 ## Contributing
 
-I'm sure I missed a lot of worthy Webfluencers and keywords. Help the Twitter feed by submitting a [PR](https://github.com/thomaswangio/w3/pulls) with additions to the README. Revisions and removals also welcome, with explanation.
+I'm sure I missed a lot of worthy orgs, people, and keywords. Help the Twitter feed by submitting a [PR](https://github.com/thomaswangio/w3/pulls) with additions to the README. Revisions and removals also welcome, with explanation.

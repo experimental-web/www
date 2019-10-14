@@ -11,7 +11,7 @@ body {
 }
 
 body {
-  background: #1b1b1b;
+  background: #141d26;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,7 +35,7 @@ body {
 }
 
 .intro {
-  background: #141d26;
+  background: #10171d;
   color: #fdfdfd;
   width: 38.18466354%;
   display: flex;
@@ -115,7 +115,7 @@ h1 {
   background: linear-gradient(135deg, #fc00ff, #00dbde);
   height: 80%;
   min-width: 450px;
-  padding: 70px;
+  padding: 48px;
   border-radius: 5px;
   transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   transform-style: preserve-3d;
