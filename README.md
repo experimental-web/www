@@ -8,7 +8,9 @@ The web is constantly changing. As developers, designers, and as users, we have 
 
 This repository features a Twitter feed of web browsers, organizations, and developers to help you keep up to date about everything happening on the world wide web.
 
-I am running this website on [Now](https://zeit.co/now) and the Twitter bot is running [Huginn](https://github.com/huginn/huginn) on a Heroku dyno with a [filter on individuals' tweets](#keyword-filters-on-individuals).
+I am running this website on [Now](https://zeit.co/now) and the Twitter bot is running [Huginn](https://github.com/huginn/huginn) on a Heroku dyno with a [filter on individuals' tweets](#keyword-filters-on-individuals). 
+
+🚧 Will refactor to a custom bot with [node-twitter](https://github.com/desmondmorris/node-twitter) or [tweepy](https://github.com/tweepy/tweepy) 🚧
 
 ## Viewing
 
