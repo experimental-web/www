@@ -4,17 +4,15 @@
 
 <h1 align="center">Experimental Web</h1>
 
+⚠️ This repo is archived. Twitter account will continue to run ⚠️
+
 The web is constantly changing. As developers, designers, and as users, we have a responsibility to keep up with all the new things. But it's hard to follow the right organizations, newsletters, and people. This repository is an attempt to simplify the struggle of keeping up with the web.
 
 This repository features a Twitter feed of web browsers, organizations, and developers to help you keep up to date about everything happening on the world wide web.
 
-I am running this website on [Now](https://zeit.co/now) and the Twitter bot is running [Huginn](https://github.com/huginn/huginn) on a Heroku dyno with a [filter on individuals' tweets](#keyword-filters-on-individuals). 
-
-🚧 Will refactor to a custom bot with [node-twitter](https://github.com/desmondmorris/node-twitter) or [tweepy](https://github.com/tweepy/tweepy) 🚧
-
 ## Viewing
 
-Can be viewed on **[Twitter](https://twitter.com/experimentalweb)** or at the **[website](https://experimentalweb.net)**.
+Can be viewed on **[Twitter](https://twitter.com/experimentalweb)**.
 
 ## The List
 
@@ -171,7 +169,3 @@ In no particular order!
 - designs
 - designers
 - designing
-
-## Contributing
-
-I'm sure I missed a lot of worthy orgs, people, and keywords. Help the Twitter feed by submitting a [PR](https://github.com/thomaswangio/w3/pulls) with additions to the README. Revisions and removals also welcome, with explanation.
